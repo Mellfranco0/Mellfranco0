@@ -22,7 +22,7 @@
  
 #
 
-<img align="right" alt="Cyber Matrix" height="190px" src="src/b4e371619042d1e80918d09904e90f7d.gif">
+<img align="right" alt="Cyber Matrix" height="190px" src="src/68caf119a7be25f3d99b5647b19bc9a3.gif">
 
 <h3 align="left">Connect with me!</h3>
 
