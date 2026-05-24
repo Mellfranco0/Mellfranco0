@@ -9,24 +9,23 @@
     <code>[ SYSTEM OVERRIDE: Information Systems Student | Building Secure & Interactive Interfaces ]</code>
   </p>
 
-  <img src="https://img.shields.io/badge/CORE_FOCUS-FRONTEND_DEV-00FF66?style=flat-square&logo=matrix&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/TARGET-NODE.JS_%2B_PENTEST-FF0055?style=flat-square&logo=kali-linux&logoColor=FF0055" />
-  <img src="https://img.shields.io/badge/CURRENT_NODE-APOLLO_ERP-00D2FF?style=flat-square" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/FOCUS-FRONTEND_DEV-3498db?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ETHICAL_HACKER-PENDING-eb4d4b?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CURRENT_NODE-APOLLO_ERP-00D2FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/WEB_PENTEST-LEARNING-2ecc71?style=for-the-badge" />
+  </p>
 </div>
 
 <br />
 
-## 🌐 ［ CORE_SYSTEM_INFO ］
+## 👤 ［ WHOAMI ］
 
-```json
-{
-  "user": "Melissa Rodrigues Franco",
-  "location": "Uberlândia - MG, Brazil",
-  "environment": "Sistemas da Informação @ Uniube",
-  "current_process": "Analista de Suporte Técnico @ Apollo ERP",
-  "objectives": [
-    "Mastering React.js & Advanced CSS/Tailwind",
-    "Auditing web applications & OWASP Top 10 vulnerabilities",
-    "Automating support tasks with Node.js & SQL backend"
-  ]
-}
+```bash
+melissa@cyber-shell:~$ whoami --verbose
+
+  [UID]      -> Melissa Rodrigues Franco
+  [LOCATION] -> Uberlândia - MG, Brazil
+  [ROLE]     -> Support Analyst @ Apollo ERP
+  [ACADEMIC] -> Information Systems Undergraduate
+  [STATUS]   -> 🟢 ONLINE_AND_CODING
